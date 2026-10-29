@@ -1,4 +1,5 @@
 # USING LIST COMPREHENSION COMPARED TO MAP FUNCTION AND FILTER FUNCTION
+# [expression for item in items]
 
 items = [
     ('Product1', 10),
